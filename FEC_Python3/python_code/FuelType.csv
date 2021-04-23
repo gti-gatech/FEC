@@ -1,0 +1,13 @@
+SI/CI	Parallel	Series	Battery Electric(BE)	Fuel Cell Electric(FCE)	Plug-in Fuel Cell Electric (PFCE)	Plug-in Hybrid Electric (PHE)
+Gasoline	Gasoline	Gasoline	Gasoline	Gasoline	Gasoline	Gasoline
+Conventional Diesel	Conventional Diesel	Conventional Diesel	Conventional Diesel	Conventional Diesel	Conventional Diesel	Conventional Diesel
+Compressed Natural Gas(CNG)	Compressed Natural Gas(CNG)	Compressed Natural Gas(CNG)	Compressed Natural Gas(CNG)	Compressed Natural Gas(CNG)	Compressed Natural Gas(CNG)	Compressed Natural Gas(CNG)
+Biodiesel 2	Biodiesel 2	Biodiesel2	Biodiesel2	Biodiesel2	Biodiesel2	Biodiesel2
+Biodiesel 5	Biodiesel 5	Biodiesel 5	Biodiesel5	Biodiesel5	Biodiesel5	Biodiesel5
+Biodiesel 10	Biodiesel 10	Biodiesel 10	Biodiesel10	Biodiesel10	Biodiesel10	Biodiesel10
+Biodiesel 20	Biodiesel 20	Biodiesel 20	Biodiesel20	Biodiesel20	Biodiesel20	Biodiesel20
+			Hydrogen	Hydrogen	Hydrogen
+			Liquefied Natural Gas(LNG)	Liquefied Natural Gas(LNG)	Liquified Natural Gas(LNG)
+			Liquefied Petroleum Gas(LPG)	Liquefied Petroleum Gas(LPG)	Liquefied Petroleum Gas(LPG)
+			Electricity	Electricity	Electricty
+

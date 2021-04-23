@@ -1,0 +1,24 @@
+pollutants	pollutantID
+Total Gaseous Hydrocarbons	1
+Carbon Monoxide (CO)	2
+Oxides of Nitrogen (NOx)	3
+Methane (CH4)	5
+Nitrous Oxide (N2O)	6
+Sulfur Dioxide (SO2)	31
+Nitrogen Dioxide (NO2)	33
+Non-Methane Hydrocarbons	79
+Volatile Organic Compounds	87
+Atmospheric CO2	90
+Total Energy Consumption	91
+Primary Exhaust PM10 - Total	100
+Primary PM10 -Organic Carbon	101
+Primary PM10 -Elemental Carbon	102
+Primary PM10 -Sulfate Particulate	105
+Primary PM10 -Brakewear Particulate	106
+Primary PM10 -Tirewear Particulate	107
+Primary Exhaust PM2.5 -Total	110
+Primary PM2.5 -Organic Carbon	111
+Primary PM2.5 -Elemental Carbon	112
+Primary PM2.5 -Sulfate Particulate	115
+Primary PM2.5 -Brakewear Particulate	116
+Primary PM2.5 -Tirewear Particulate	117

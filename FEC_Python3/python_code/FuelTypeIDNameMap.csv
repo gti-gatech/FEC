@@ -1,0 +1,12 @@
+FuelType	FuelTypeGreet	FuelTypeID
+Gasoline	gasoline	1
+Conventional Diesel	diesel	2
+Compressed Natural Gas (CNG)	CNG	3
+Biodiesel 2	biodiesel	202
+Biodiesel 5	biodiesel	205
+Biodiesel 10	biodiesel	210
+Biodiesel 20	biodiesel	220
+Hydrogen	hydrogen	0
+Liquefied Natural Gas (LNG)	LNG	200
+Liquefied Petroleum Gas (LPG)	LPG	4
+Electricity	electricity	9
